@@ -175,6 +175,7 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="4sp"
                 android:layout_weight="1"
+                android:onClick="operar"
                 android:text="@string/igual"
                 android:textSize="18sp" />
 
